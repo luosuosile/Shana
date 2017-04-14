@@ -6,7 +6,11 @@ libgdx java android
 
 游戏效果
 ![]https://github.com/luosuosile/Shana/blob/master/screenshot/1.png
-1[]https://github.com/luosuosile/Shana/blob/master/screenshot/2.png
+
+![]https://github.com/luosuosile/Shana/blob/master/screenshot/2.png
+
 ![]https://github.com/luosuosile/Shana/blob/master/screenshot/3.png
+
 ![]https://github.com/luosuosile/Shana/blob/master/screenshot/4.png
+
 ![]https://github.com/luosuosile/Shana/blob/master/screenshot/Menu.png
